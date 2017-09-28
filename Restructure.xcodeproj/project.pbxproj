@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		081215CC1F7C7FD600825E87 /* Universal Application.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Universal Application.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		081215CC1F7C7FD600825E87 /* Restructure.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restructure.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		081215CF1F7C7FD600825E87 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		081215D11F7C7FD600825E87 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		081215D41F7C7FD600825E87 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		081215CD1F7C7FD600825E87 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				081215CC1F7C7FD600825E87 /* Universal Application.app */,
+				081215CC1F7C7FD600825E87 /* Restructure.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		081215CB1F7C7FD600825E87 /* Universal Application */ = {
+		081215CB1F7C7FD600825E87 /* Restructure */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 081215DE1F7C7FD600825E87 /* Build configuration list for PBXNativeTarget "Universal Application" */;
+			buildConfigurationList = 081215DE1F7C7FD600825E87 /* Build configuration list for PBXNativeTarget "Restructure" */;
 			buildPhases = (
 				081215C81F7C7FD600825E87 /* Sources */,
 				081215C91F7C7FD600825E87 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = "Universal Application";
+			name = Restructure;
 			productName = "Universal Application";
-			productReference = 081215CC1F7C7FD600825E87 /* Universal Application.app */;
+			productReference = 081215CC1F7C7FD600825E87 /* Restructure.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 081215C71F7C7FD600825E87 /* Build configuration list for PBXProject "Universal Application" */;
+			buildConfigurationList = 081215C71F7C7FD600825E87 /* Build configuration list for PBXProject "Restructure" */;
 			compatibilityVersion = "Xcode 8.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				081215CB1F7C7FD600825E87 /* Universal Application */,
+				081215CB1F7C7FD600825E87 /* Restructure */,
 			);
 		};
 /* End PBXProject section */
@@ -301,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		081215C71F7C7FD600825E87 /* Build configuration list for PBXProject "Universal Application" */ = {
+		081215C71F7C7FD600825E87 /* Build configuration list for PBXProject "Restructure" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				081215DC1F7C7FD600825E87 /* Debug */,
@@ -310,7 +310,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		081215DE1F7C7FD600825E87 /* Build configuration list for PBXNativeTarget "Universal Application" */ = {
+		081215DE1F7C7FD600825E87 /* Build configuration list for PBXNativeTarget "Restructure" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				081215DF1F7C7FD600825E87 /* Debug */,
